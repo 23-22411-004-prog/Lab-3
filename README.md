@@ -1,2 +1,1 @@
-This is the first test line for reset
-This is the first test line for reset
+This line is for amend test
